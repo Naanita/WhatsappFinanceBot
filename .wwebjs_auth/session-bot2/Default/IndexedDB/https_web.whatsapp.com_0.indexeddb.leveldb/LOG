@@ -1,0 +1,40 @@
+2025/06/06-17:29:43.998 37a8 Reusing MANIFEST C:\Users\sebastian.grajales\Documents\ME\CODE\OTHERS\WHATSAPP FINANCE BOT\.wwebjs_auth\session-bot2\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/06/06-17:29:44.000 37a8 Recovering log #1146
+2025/06/06-17:29:44.024 37a8 Reusing old log C:\Users\sebastian.grajales\Documents\ME\CODE\OTHERS\WHATSAPP FINANCE BOT\.wwebjs_auth\session-bot2\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/001146.log 
+2025/06/06-17:29:45.522 8b04 Level-0 table #1162: started
+2025/06/06-17:29:45.529 8b04 Level-0 table #1162: 269974 bytes OK
+2025/06/06-17:29:45.531 8b04 Delete type=0 #1146
+2025/06/06-17:29:45.532 8b04 Manual compaction at level-0 from '\x00"\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00#\x00\x00\x00' @ 0 : 0; will stop at '\x00"\x00\x00\x05' @ 3600041 : 1
+2025/06/06-17:29:45.532 8b04 Compacting 1@0 + 1@1 files
+2025/06/06-17:29:45.544 8b04 Generated table #1163@0: 6499 keys, 123832 bytes
+2025/06/06-17:29:45.551 8b04 Generated table #1164@0: 3187 keys, 93391 bytes
+2025/06/06-17:29:45.551 8b04 Compacted 1@0 + 1@1 files => 217223 bytes
+2025/06/06-17:29:45.553 8b04 compacted to: files[ 0 2 22 0 0 0 0 ]
+2025/06/06-17:29:45.553 8b04 Delete type=2 #1162
+2025/06/06-17:29:45.554 8b04 Manual compaction at level-0 from '\x00"\x00\x00\x05' @ 3600041 : 1 .. '\x00#\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/06/06-17:29:46.621 8b04 Compacting 1@1 + 10@2 files
+2025/06/06-17:29:46.682 8b04 Generated table #1165@1: 79438 keys, 2248052 bytes
+2025/06/06-17:29:46.714 8b04 Generated table #1166@1: 9482 keys, 2162762 bytes
+2025/06/06-17:29:46.735 8b04 Generated table #1167@1: 3018 keys, 2152881 bytes
+2025/06/06-17:29:46.755 8b04 Generated table #1168@1: 2962 keys, 2154981 bytes
+2025/06/06-17:29:46.776 8b04 Generated table #1169@1: 2404 keys, 2152176 bytes
+2025/06/06-17:29:46.800 8b04 Generated table #1170@1: 3634 keys, 2154456 bytes
+2025/06/06-17:29:46.837 8b04 Generated table #1171@1: 18782 keys, 2175596 bytes
+2025/06/06-17:29:46.886 8b04 Generated table #1172@1: 29265 keys, 2273812 bytes
+2025/06/06-17:29:46.933 8b04 Generated table #1173@1: 32527 keys, 2256155 bytes
+2025/06/06-17:29:46.970 8b04 Generated table #1174@1: 20030 keys, 2243983 bytes
+2025/06/06-17:29:46.975 8b04 Generated table #1175@1: 59 keys, 8714 bytes
+2025/06/06-17:29:46.975 8b04 Compacted 1@1 + 10@2 files => 21983568 bytes
+2025/06/06-17:29:46.977 8b04 compacted to: files[ 0 1 23 0 0 0 0 ]
+2025/06/06-17:29:46.978 8b04 Delete type=2 #1149
+2025/06/06-17:29:46.978 8b04 Delete type=2 #1150
+2025/06/06-17:29:46.978 8b04 Delete type=2 #1151
+2025/06/06-17:29:46.978 8b04 Delete type=2 #1152
+2025/06/06-17:29:46.978 8b04 Delete type=2 #1153
+2025/06/06-17:29:46.978 8b04 Delete type=2 #1154
+2025/06/06-17:29:46.978 8b04 Delete type=2 #1155
+2025/06/06-17:29:46.978 8b04 Delete type=2 #1156
+2025/06/06-17:29:46.978 8b04 Delete type=2 #1157
+2025/06/06-17:29:46.978 8b04 Delete type=2 #1158
+2025/06/06-17:29:46.978 8b04 Delete type=2 #1159
+2025/06/06-17:29:46.978 8b04 Delete type=2 #1163

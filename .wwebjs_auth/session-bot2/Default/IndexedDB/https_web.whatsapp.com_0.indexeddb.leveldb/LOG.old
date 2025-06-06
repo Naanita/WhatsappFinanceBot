@@ -1,0 +1,38 @@
+2025/06/06-17:29:24.070 68f8 Reusing MANIFEST C:\Users\sebastian.grajales\Documents\ME\CODE\OTHERS\WHATSAPP FINANCE BOT\.wwebjs_auth\session-bot2\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/06/06-17:29:24.073 68f8 Recovering log #1123
+2025/06/06-17:29:24.175 68f8 Reusing old log C:\Users\sebastian.grajales\Documents\ME\CODE\OTHERS\WHATSAPP FINANCE BOT\.wwebjs_auth\session-bot2\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/001123.log 
+2025/06/06-17:29:25.699 37c4 Level-0 table #1147: started
+2025/06/06-17:29:25.714 37c4 Level-0 table #1147: 679340 bytes OK
+2025/06/06-17:29:25.716 37c4 Delete type=0 #1123
+2025/06/06-17:29:25.717 1d1c Manual compaction at level-0 from '\x00!\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00"\x00\x00\x00' @ 0 : 0; will stop at '\x00!\x00\x00\x05' @ 3588817 : 1
+2025/06/06-17:29:25.717 1d1c Compacting 1@0 + 0@1 files
+2025/06/06-17:29:25.745 1d1c Generated table #1148@0: 21713 keys, 294201 bytes
+2025/06/06-17:29:25.751 1d1c Generated table #1149@0: 3179 keys, 91738 bytes
+2025/06/06-17:29:25.751 1d1c Compacted 1@0 + 0@1 files => 385939 bytes
+2025/06/06-17:29:25.753 1d1c compacted to: files[ 0 2 22 0 0 0 0 ]
+2025/06/06-17:29:25.754 1d1c Delete type=2 #1147
+2025/06/06-17:29:25.754 1d1c Manual compaction at level-0 from '\x00!\x00\x00\x05' @ 3588817 : 1 .. '\x00"\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/06/06-17:29:26.770 6bd4 Compacting 1@1 + 10@2 files
+2025/06/06-17:29:26.824 6bd4 Generated table #1150@1: 78820 keys, 2246156 bytes
+2025/06/06-17:29:26.850 6bd4 Generated table #1151@1: 8930 keys, 2163971 bytes
+2025/06/06-17:29:26.871 6bd4 Generated table #1152@1: 3024 keys, 2152336 bytes
+2025/06/06-17:29:26.890 6bd4 Generated table #1153@1: 2959 keys, 2156337 bytes
+2025/06/06-17:29:26.914 6bd4 Generated table #1154@1: 2391 keys, 2152126 bytes
+2025/06/06-17:29:26.941 6bd4 Generated table #1155@1: 3653 keys, 2154263 bytes
+2025/06/06-17:29:26.974 6bd4 Generated table #1156@1: 19415 keys, 2178538 bytes
+2025/06/06-17:29:27.019 6bd4 Generated table #1157@1: 28904 keys, 2274772 bytes
+2025/06/06-17:29:27.064 6bd4 Generated table #1158@1: 32357 keys, 2256031 bytes
+2025/06/06-17:29:27.101 6bd4 Generated table #1159@1: 19955 keys, 2228695 bytes
+2025/06/06-17:29:27.101 6bd4 Compacted 1@1 + 10@2 files => 21963225 bytes
+2025/06/06-17:29:27.103 6bd4 compacted to: files[ 0 1 22 0 0 0 0 ]
+2025/06/06-17:29:27.104 6bd4 Delete type=2 #1127
+2025/06/06-17:29:27.104 6bd4 Delete type=2 #1128
+2025/06/06-17:29:27.104 6bd4 Delete type=2 #1129
+2025/06/06-17:29:27.104 6bd4 Delete type=2 #1130
+2025/06/06-17:29:27.104 6bd4 Delete type=2 #1131
+2025/06/06-17:29:27.104 6bd4 Delete type=2 #1132
+2025/06/06-17:29:27.104 6bd4 Delete type=2 #1133
+2025/06/06-17:29:27.104 6bd4 Delete type=2 #1134
+2025/06/06-17:29:27.104 6bd4 Delete type=2 #1135
+2025/06/06-17:29:27.104 6bd4 Delete type=2 #1136
+2025/06/06-17:29:27.104 6bd4 Delete type=2 #1148
